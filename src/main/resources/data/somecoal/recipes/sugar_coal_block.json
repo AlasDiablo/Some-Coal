@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "somecoal:sugar_coal"
+    }
+  },
+  "result": {
+    "item": "somecoal:sugar_coal_block"
+  }
+}

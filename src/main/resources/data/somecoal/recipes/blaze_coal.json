@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "type": "minecraft:item",
+      "item": "somecoal:blaze_coal_block"
+    }
+  ],
+  "result": {
+    "item": "somecoal:blaze_coal",
+    "count": 9
+  }
+}

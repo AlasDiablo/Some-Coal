@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "type": "minecraft:item",
+      "item": "somecoal:sugar_coal_block"
+    }
+  ],
+  "result": {
+    "item": "somecoal:sugar_coal",
+    "count": 9
+  }
+}

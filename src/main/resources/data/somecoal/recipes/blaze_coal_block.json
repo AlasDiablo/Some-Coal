@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "somecoal:blaze_coal"
+    }
+  },
+  "result": {
+    "item": "somecoal:blaze_coal_block"
+  }
+}

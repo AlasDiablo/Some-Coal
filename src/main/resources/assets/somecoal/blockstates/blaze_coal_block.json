@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "somecoal:block/blaze_coal_block" }
+    }
+}
